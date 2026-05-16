@@ -24,7 +24,7 @@ Together we're **NAmi-meow**: a tiny studio where code and art purr in harmony.
 
 ### 🧩 What we craft
 - 🕹️ **Games** — indie titles, powerful mechanics, beautiful worlds
-- ⚙️ **Operating Systems** — self-writed kernel, bootloader
+- ⚙️ **Operating Systems** — self-writtn kernel, bootloader
 - 🖼️ **Art & Design** — game assets, UI/UX, original characters  
 - 🌐 **Tools & Toys** — creative devtools, utilities, libs
 
