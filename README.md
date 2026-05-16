@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/art-%23FF69B4?style=flat&logo=adobe&logoColor=white" />
   <img src="https://img.shields.io/badge/games-%23633BFF?style=flat&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/os-%234B8BBE?style=flat&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/pixels-%23FFD700?style=flat&logo=pixiv&logoColor=black" />
 </p>
 
 ---
@@ -24,17 +23,17 @@ Together we're **NAmi-meow**: a tiny studio where code and art purr in harmony.
 ---
 
 ### 🧩 What we craft
-- 🕹️ **Games** — indie titles, pixel art adventures, experimental mechanics  
-- ⚙️ **Operating Systems** — hobby kernels, bootloaders, low-level experiments  
+- 🕹️ **Games** — indie titles, powerful mechanics, beautiful worlds
+- ⚙️ **Operating Systems** — self-writed kernel, bootloader
 - 🖼️ **Art & Design** — game assets, UI/UX, original characters  
-- 🌐 **Tools & Toys** — creative devtools, visualisers, tiny compilers  
+- 🌐 **Tools & Toys** — creative devtools, utilities, libs
 
 *Everything from scratch, with love and curiosity.*
 
 ---
 
 ### 🛠️ Our toolbox
-`C` `Rust` `Assembly` `Python` `Lua` `Godot` `Raylib` `Linux` `Aseprite` `Blender`
+`C` `Rust` `NASM` `Kotlin` `Python` `Unity` `Linux` `Blender`
 
 ---
 
