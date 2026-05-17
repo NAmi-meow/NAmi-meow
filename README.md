@@ -45,9 +45,6 @@ Together we're **NAmi-meow**: a tiny studio where code and art purr in harmony.
 
 ---
 
-### 💌 Let's build something together
-*Commissions closed for now — but we share our journey here.*
-
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=NAmi-meow&label=visitors&color=ff69b4" alt="visitors" />
 </p>
