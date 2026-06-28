@@ -3,11 +3,11 @@
 </p>
 
 <h1 align="center">🐾 NAmi-meow</h1>
-<h3 align="center">⚙️ Dev (Naka) × 🎨 Artist (Ami) — building together, from games to operating systems.</h3>
+<h3 align="center">⚙️ Dev (Naka) × ✨ Muse (Ami) — building together, from games to operating systems.</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/code-%23000000?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/art-%23FF69B4?style=flat&logo=adobe&logoColor=white" />
+  <img src="https://img.shields.io/badge/inspiration-%23FF69B4?style=flat&logo=adobe&logoColor=white" />
   <img src="https://img.shields.io/badge/games-%23633BFF?style=flat&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/os-%234B8BBE?style=flat&logo=linux&logoColor=white" />
 </p>
@@ -16,16 +16,16 @@
 
 ### 👫 Who we are
 **Naka** — the one who talks to machines in C, Rust and assembly. Loves building engines, kernels, and clean architectures.  
-**Ami** — the one who paints emotions, characters, and interfaces. Makes everything look alive.  
+**Ami** — the one who breathes soul into every idea, shapes the vision, and fuels our projects with emotion and purpose.  
 
-Together we're **NAmi-meow**: a tiny studio where code and art purr in harmony.
+Together we're **NAmi-meow**: a tiny studio where code and inspiration purr in harmony.
 
 ---
 
 ### 🧩 What we craft
 - 🕹️ **Games** — indie titles, powerful mechanics, beautiful worlds
-- ⚙️ **Operating Systems** — self-writtn kernel, bootloader
-- 🖼️ **Art & Design** — game assets, UI/UX, original characters  
+- ⚙️ **Operating Systems** — self-written kernel, bootloader
+- 🖼️ **Creative Direction** — game atmosphere, UI/UX concepts, original character visions  
 - 🌐 **Tools & Toys** — creative devtools, utilities, libs
 
 *Everything from scratch, with love and curiosity.*
